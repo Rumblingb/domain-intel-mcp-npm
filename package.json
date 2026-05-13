@@ -1,0 +1,26 @@
+{
+  "name": "domain-intel-mcp",
+  "version": "1.0.0",
+  "description": "MCP server: Domain intelligence: DNS, SSL, IP geolocation, and health checks \u2014 npm wrapper",
+  "main": "index.js",
+  "bin": {
+    "domain-intel-mcp": "./index.js"
+  },
+  "keywords": [
+    "mcp",
+    "mcp-server",
+    "ai-agent",
+    "agentpay",
+    "domain",
+    "intel",
+    "mcp"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rumblingb/domain-intel-mcp.git"
+  },
+  "homepage": "https://rumblingb.github.io/domain-intel-mcp/",
+  "author": "AgentPay Labs",
+  "license": "MIT",
+  "dependencies": {}
+}
